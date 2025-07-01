@@ -53,7 +53,7 @@
 ---
 
 <p align="center">
-  Made with ❤ by <strong>Sandhya</strong>
+  Made with ❤ by <strong>Saloi</strong>
 </p>
 <!--
 **SaloniRana13/SaloniRana13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
