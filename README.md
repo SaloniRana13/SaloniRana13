@@ -29,12 +29,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandhya1114&show_icons=true&theme=tokyonight" alt="Sandhya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya1114&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" hight="5vh" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaloniRana13&show_icons=true&theme=tokyonight" alt="Sandhya's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaloniRana13&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" hight="5vh" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sandhya1114&theme=tokyonight" alt="GitHub Streak" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SaloniRana13&theme=tokyonight" alt="GitHub Streak" width="70%" />
 </p>
 
 
